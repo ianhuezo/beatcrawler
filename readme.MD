@@ -1,6 +1,4 @@
 [![Build Status](https://travis-ci.com/ianhuezo/beatcrawler.svg?token=RjjacHpzdoW51tzGskcD&branch=main)](https://travis-ci.com/ianhuezo/beatcrawler)
-# Warning: run code at your own risk of getting banned from these sites.  I take no responsibility.
-
 ---
 
 Beatcrawler is a simple way to retrieve songs from specific users on https://scoresaber.com using https://beatsaver.com as the download reference site.  
