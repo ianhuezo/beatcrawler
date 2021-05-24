@@ -3,7 +3,7 @@
 
 Beatcrawler is a simple way to retrieve songs from specific users on https://scoresaber.com using https://beatsaver.com as the download reference site.  
 
-Simply fill out your userid, download folder path, and how many pages to download from scoresaber using python.
+Simply fill out your userid, download folder path, and how many pages to download from scoresaber using python(STILL WIP must edit code for this still).
 
 I strictly follow their api path, so the time to download files is slow
 
